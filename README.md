@@ -1,1 +1,1 @@
-# Stationary-Management-System
+# Stationary-Mgmt-System
